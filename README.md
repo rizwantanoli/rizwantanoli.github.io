@@ -1,2 +1,2 @@
-# rizwantanoli.github.io
+# Rizwan Tanoli
 GitHub Pages repository
